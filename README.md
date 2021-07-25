@@ -4,7 +4,7 @@
 ![My Video](https://user-images.githubusercontent.com/50593062/119984556-6109a400-bf76-11eb-90dd-da62e3a4ca99.gif)
 
 
-# Installation steps
+# Follow These Installation steps
 Clone the Repo and install the requirements
 ```
 git clone https://github.com/Nouman945/Django.git
